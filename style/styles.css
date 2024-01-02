@@ -1,7 +1,30 @@
 h1 {
-    background-color: aquamarine;
+    background-color: tomato;
+    color: black;
+    text-align: center;
+    padding: 30px solid tomato;
+    margin: 5px 20px;
 }
 
 .yellow {
-    color: aqua;
+    background-color: aqua;
+    color: black;
+    padding-top: 50px solid tomato;
+}
+
+#blog {
+    color: black;
+    text-shadow: 10px;
+    font-weight: 400;
+    padding: 20px 50px;
+    weight: 10%;
+    height: 20%;
+    font-style: italic;
+    font-style: bold;
+}
+
+#short {
+    color: darkslateblue;
+    font-size: large;
+    font-style: italic;
 }
